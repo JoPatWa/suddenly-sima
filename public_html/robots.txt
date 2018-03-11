@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /category/
+Disallow: /portfolio/
+Disallow: /portfolio-posts/
+Sitemap: http://www.suddenlysima.com/
